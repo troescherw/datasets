@@ -1,0 +1,15 @@
+Witterung;Temperatur;Luftfeuchtigkeit;Windig;TennisGespielt
+Regnerisch;Heiß;Hoch;Nein;0
+Regnerisch;Heiß;Hoch;Ja;0
+Bedeckt;Heiß;Hoch;Nein;1
+Sonnig;Mild;Hoch;Nein;1
+Sonnig;Kalt;Normal;Nein;1
+Sonnig;Kalt;Normal;Ja;0
+Bedeckt;Kalt;Normal;Ja;1
+Regnerisch;Mild;Hoch;Nein;0
+Regnerisch;Kalt;Normal;Nein;1
+Sonnig;Mild;Normal;Nein;1
+Regnerisch;Mild;Normal;Ja;1
+Bedeckt;Mild;Hoch;Ja;1
+Bedeckt;Heiß;Normal;Nein;1
+Sonnig;Mild;Hoch;Ja;0
