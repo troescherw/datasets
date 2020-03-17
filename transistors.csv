@@ -1,0 +1,104 @@
+Processor;Date_of_introduction;Transistor_count;Designer;Year_after_1970
+Intel 4004;1971;2300;Intel;1
+Intel 8008;1972;3500;Intel;2
+Intel 8080;1974;4500;Intel;4
+Motorola 6800;1974;4100;Motorola;4
+RCA 1802;1974;5000;RCA;4
+TMS 1000;1974;8000;Texas Instruments;4
+MOS Technology 6502;1975;3510;MOS Technology;5
+Intel 8085;1976;6500;Intel;6
+Zilog Z80;1976;8500;Zilog;6
+Intel 8086;1978;29000;Intel;8
+Motorola 6809;1978;9000;Motorola;8
+Intel 8088;1979;29000;Intel;9
+Motorola 68000;1979;68000;Motorola;9
+WDC 65C02;1981;11500;WDC;11
+Intel 80186;1982;55000;Intel;12
+Intel 80286;1982;134000;Intel;12
+WDC 65C816;1983;22000;WDC;13
+Motorola 68020;1984;190000;Motorola;14
+ARM 1;1985;25000;Acorn;15
+Intel 80386;1985;275000;Intel;15
+Novix NC4016;1985;16000;Harris Corporation;15
+ARM 2;1986;30000;Acorn;16
+TI Explorer's 32-bit Lisp machine chip;1987;553000;Texas Instruments;17
+DEC WRL MultiTitan;1988;180000;DEC WRL;18
+Intel i960;1988;250000;Intel;18
+ARM 3;1989;300000;Acorn;19
+Intel 80486;1989;1180235;Intel;19
+ARM 6;1991;35000;ARM;21
+R4000;1991;1350000;MIPS;21
+Pentium;1993;3100000;Intel;23
+ARM700;1994;578977;ARM;24
+Pentium Pro;1995;5500000;Intel;25
+SA-110;1995;2500000;Acorn/DEC/Apple;25
+AMD K5;1996;4300000;AMD;26
+AMD K6;1997;8800000;AMD;27
+Pentium II Klamath;1997;7500000;Intel;27
+Pentium II Deschutes;1998;7500000;Intel;28
+AMD K6-III;1999;21300000;AMD;29
+AMD K7;1999;22000000;AMD;29
+ARM 9TDMI;1999;111000;Acorn;29
+Pentium II Mobile Dixon;1999;27400000;Intel;29
+Pentium III Katmai;1999;9500000;Intel;29
+Pentium 4 Willamette;2000;42000000;Intel;30
+Pentium III Coppermine;2000;21000000;Intel;30
+Pentium III Tualatin;2001;45000000;Intel;31
+Itanium 2 McKinley;2002;220000000;Intel;32
+Pentium 4 Northwood;2002;55000000;Intel;32
+AMD K8;2003;105900000;AMD;33
+Barton;2003;54300000;AMD;33
+Itanium 2 Madison 6M;2003;410000000;Intel;33
+Itanium 2 with 9ÿMB cache;2004;592000000;Intel;34
+Pentium 4 Prescott;2004;112000000;Intel;34
+Pentium 4 Prescott-2M;2005;169000000;Intel;35
+Pentium D Smithfield;2005;228000000;Intel;35
+Cell;2006;241000000;Sony/IBM/Toshiba;36
+Core 2 Duo Conroe;2006;291000000;Intel;36
+Dual-core Itanium 2;2006;1700000000;Intel;36
+Pentium 4 Cedar Mill;2006;184000000;Intel;36
+Pentium D Presler;2006;362000000;Intel;36
+AMD K10 quad-core 2M L3;2007;463000000;AMD;37
+ARM Cortex-A9;2007;26000000;ARM;37
+Core 2 Duo Allendale;2007;169000000;Intel;37
+Core 2 Duo Wolfdale;2007;411000000;Intel;37
+POWER6;2007;789000000;IBM;37
+AMD K10 quad-core 6M L3;2008;758000000;AMD;38
+Atom;2008;47000000;Intel;38
+Core 2 Duo Wolfdale 3M;2008;230000000;Intel;38
+Core i7 (Quad);2008;731000000;Intel;38
+Six-core Xeon 7400;2008;1900000000;Intel;38
+Six-core Opteron 2400;2009;904000000;AMD;39
+16-core SPARC T3;2010;1000000000;Sun/Oracle;40
+8-core POWER7 32M L3;2010;1200000000;IBM;40
+8-core Xeon Nehalem-EX;2010;2300000000;Intel;40
+Quad-core Itanium Tukwila;2010;2000000000;Intel;40
+Quad-core z196[20];2010;1400000000;IBM;40
+Six-core Core i7 (Gulftown);2010;1170000000;Intel;40
+10-core Xeon Westmere-EX;2011;2600000000;Intel;41
+Quad-core + GPU Core i7;2011;1160000000;Intel;41
+Six-core Core i7/8-core Xeon E5;2011;2270000000;Intel;41
+61-core Xeon Phi;2012;5000000000;Intel;42
+8-core AMD Bulldozer;2012;1200000000;AMD;42
+8-core Itanium Poulson;2012;3100000000;Intel;42
+8-core POWER7+ 80ÿMB L3 cache;2012;2100000000;IBM;42
+Quad-core + GPU AMD Trinity;2012;1303000000;AMD;42
+Quad-core + GPU Core i7 Ivy Bridge;2012;1400000000;Intel;42
+Six-core zEC12;2012;2750000000;IBM;42
+12-core POWER8;2013;4200000000;IBM;43
+"Apple A7 (dual-core ARM64 ""mobile SoC"")";2013;1000000000;Apple;43
+Six-core Core i7 Ivy Bridge E;2013;1860000000;Intel;43
+Xbox One main SoC;2013;5000000000;Microsoft/AMD;43
+15-core Xeon Ivy Bridge-EX;2014;4310000000;Intel;44
+18-core Xeon Haswell-E5;2014;5560000000;Intel;44
+8-core Core i7 Haswell-E;2014;2600000000;Intel;44
+"Apple A8 (dual-core ARM64 ""mobile SoC"")";2014;2000000000;Apple;44
+"Apple A8X (tri-core ARM64 ""mobile SoC"")";2014;3000000000;Apple;44
+Quad-core + GPU Core i7 Haswell;2014;1400000000;Intel;44
+Duo-core + GPU Iris Core i7 Broadwell-U;2015;1900000000;Intel;45
+IBM z13;2015;3990000000;IBM;45
+IBM z13 Storage Controller;2015;7100000000;IBM;45
+Quad-core + GPU GT2 Core i7 Skylake K;2015;1750000000;Intel;45
+SPARC M7;2015;10000000000;Oracle;45
+22-core Xeon Broadwell-E5;2016;7200000000;Intel;46
+"Apple A10 (quad-core ARM64 ""mobile SoC"")";2016;3300000000;Apple;46
