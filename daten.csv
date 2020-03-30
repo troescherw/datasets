@@ -1,6 +1,6 @@
 Vorname;Nachname;Semester
-"Fritz";"Huber";4
-"Sabine";"Schuster";2
-"Max";"Gabler";5
-"Christine";"Maier";4
-"Max";"Schreck";2
+1;"Fritz";"Huber";4
+2:"Sabine";"Schuster";2
+3;"Max";"Gabler";5
+4;"Christine";"Maier";4
+5;"Max";"Schreck";2
