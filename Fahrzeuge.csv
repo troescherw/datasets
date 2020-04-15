@@ -3,7 +3,7 @@ FahrzeugNr;AnzahlRaeder;Leistung;Kraftstoff;Gewicht;Bezeichnung
 2;4;130;Benzin;1200;Auto1
 3;4;250;Diesel;6000;LKW1
 4;2;0,35;Strom;7,5;EBike1
-5;4;140;Diesel;1220;Auto2
+5;4;140;Benzin;1220;Auto2
 6;4;120;Benzin;1215;Auto3
 7;2;0;Muskel; 6,15 ;Fahrrad3
 8;4;320;Diesel;7100;LKW2
