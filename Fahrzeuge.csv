@@ -1,15 +1,15 @@
 FahrzeugNr;AnzahlRaeder;Leistung;Kraftstoff;Gewicht;Bezeichnung
-1;2;0;Muskel;5,5;Fahrrad1
+1;2;0;Muskel;5.5;Fahrrad1
 2;4;130;Benzin;1200;Auto1
 3;4;250;Diesel;6000;LKW1
-4;2;0,35;Strom;7,5;EBike1
+4;2;0.35;Strom;7.5;EBike1
 5;4;140;Benzin;1220;Auto2
 6;4;120;Benzin;1215;Auto3
-7;2;0;Muskel; 6,15 ;Fahrrad3
+7;2;0;Muskel; 6.15 ;Fahrrad3
 8;4;320;Diesel;7100;LKW2
 9;4;128;Benzin;1150;Auto4
-10;2;0;Muskel;6,9;Fahrrad4
-11;2;0;Muskel;9,2;Fahrrad5
+10;2;0;Muskel;6.9;Fahrrad4
+11;2;0;Muskel;9.2;Fahrrad5
 12;4;130;Benzin;1160;Auto5
 13;4;320;Diesel;6500;LKW3
-14;2;0,4;Strom;10,1;EBike2
+14;2;0.4;Strom;10.1;EBike2
