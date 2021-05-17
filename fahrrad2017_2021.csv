@@ -1,4 +1,4 @@
-kaaDX7sP!6datum,uhrzeit_start,uhrzeit_ende,zaehlstelle,richtung_1,richtung_2,gesamt,min-temp,max-temp,niederschlag,bewoelkung,sonnenstunden
+datum,uhrzeit_start,uhrzeit_ende,zaehlstelle,richtung_1,richtung_2,gesamt,min-temp,max-temp,niederschlag,bewoelkung,sonnenstunden
 2017.01.01,00:00:00,23.59,Arnulf,121,14,135,-6.1,2.6,0,36,5.9
 2017.01.02,00:00:00,23.59,Arnulf,362,38,400,-5.4,0.8,3.2,69,0.3
 2017.01.03,00:00:00,23.59,Arnulf,232,30,262,-2.1,0.6,0,85,3.6
