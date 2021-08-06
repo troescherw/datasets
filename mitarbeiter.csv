@@ -1,0 +1,13 @@
+PERS_NR,VORNAME,NACHNAME,GESCHLECHT,GEBDAT,ABTEILUNG,GEHALT
+1,Walter,Breuer,m,20.03.64,Geschäftsführung,50000
+4,Heinz,Warner,m,29.06.80,Geschäftsführung,37500
+5,Anette,Kroll,w,12.07.69,Geschäftsführung,34000
+2,Ursula,Mayer,w,01.12.75,Marketing,40000
+6,Andreas,Walther,m,31.10.81,Marketing,34000
+20,Karl,Petersen,m,05.03.62,Marketing,44500
+25,Jürgen,Gernsch,m,20.08.81,Marketing,34500
+3,Klaus,Suhr,m,14.07.79,EDV,37500
+11,Elvira,Ott,w,13.04.67,EDV,25000
+14,Gregor,Wagner,m,11.05.81,EDV,25000
+23,Angela,Gabler,w,06.12.59,EDV,39000
+7,Wilhelm,Grundner,m,10.05.87,,34500
